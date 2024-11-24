@@ -49,7 +49,6 @@ namespace Assignment18
         {
             target.Health -= damage;
             Debug.Log(attackType);
-            Attack(damage,target);
         }
     }
 }
